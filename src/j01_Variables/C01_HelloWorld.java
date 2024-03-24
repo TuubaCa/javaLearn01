@@ -107,6 +107,7 @@ public class C01_HelloWorld {
         System.out.println((m*n) + (n-m) + (n/m)+s );
 
         System.out.println((m*n) + (n-m)+ s + (n/m) );
+        System.out.println(m*n);
 
 
 
